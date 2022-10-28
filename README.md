@@ -181,9 +181,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 * Rayhan Risq Arya Brinanta | [risq45](https://github.com/risq45)
 * Yunolva Anis Ramaziyah | [yunolva](https://github.com/yunolva)
-* Fahri Sunarya | [404](about:blank)
-* Afrizal Ihyauddin Yafi' [aiyafi](https://github.com/aiyafi)
-* Muhamad Karim [KarimMuhamad](https://github.com/KarimMuhamad)
+* Fahri Sunarya | [404](https://www.blank.org/)
+* Afrizal Ihyauddin Yafi' | [aiyafi](https://github.com/aiyafi)
+* Muhamad Karim | [KarimMuhamad](https://github.com/KarimMuhamad)
 
 
 
